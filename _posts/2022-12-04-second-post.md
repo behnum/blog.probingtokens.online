@@ -12,3 +12,5 @@ This is another sample post.
 ```bash
 brew update && brew upgrade
 ```
+
+Mon 26 December 2022
